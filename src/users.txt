@@ -1,0 +1,7 @@
+sami louati 1 1 1960 femme 789 TUNISIENNE ELECTEUR gauche ww ww ww 0 
+sami louati 1 1 1960 femme 789 TUNISIENNE ELECTEUR gauche ww ww ww 0 
+faten kk 2 2 1961 femme hhh TUNISIENNE ELECTEUR gauche gg ff dd 0 
+aze fgr 4 5 1964 homme fff ETRANGERE ELECTEUR milieu qq ww cc 1 
+salma toumi 4 5 1964 femme 123 ETRANGERE ELECTEUR gauche 145 1236 456 0 
+behaj marwen 3 3 1963 femme bbb ETRANGERE ELECTEUR gauche bbb vvv ccc 0 
+

@@ -1,0 +1,5 @@
+aa bb 15 2 1997 0000 m r electeur tun 2 zzz eee amin
+aa bb 15 2 1998 0000 m r electeur tun 2 zzz eee amin
+aa bb 15 2 1999 0000 m r electeur tun 1 zzz eee amin
+aa bb 15 2 2000 0000 m r electeur tun 4 zzz eee aa
+

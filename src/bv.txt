@@ -1,0 +1,8 @@
+elee lam Salle_3 300 16 1
+andrea pirlo Salle_2 300 21 1
+amm sss Salle_1 100 1 -1
+amoo kk Salle_4 300 15 1
+amine lemsi Salle_1 300 17 -1
+azer wxc Salle_4 300 2 1
+
+www xxx Salle_5 100 1 -1

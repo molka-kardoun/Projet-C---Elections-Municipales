@@ -1,0 +1,7 @@
+aa zz 15 12 1960 homme zz ETRANGERE ELECTEUR milieu zz zz zz zz 
+zz zz 1 1 1960 homme zzz ETRANGERE OBSERVATEUR milieu zzz zzzz zz zz 
+aa aa 31 4 2002 femme gg ETRANGERE ELECTEUR gauche jj kk jj ll 
+mmm ùùùù 1 1 1960 homme kkk ETRANGERE AGENT droite ww ww www ww 
+fate hg 15 12 1999 femme zzz ETRANGERE OBSERVATEUR gauche aa aa aaaaa aaa 
+aa aa 1 1 1960 femme aaa ETRANGERE ELECTEUR milieu aa aa aa aa 
+amo ze 1 1 1960 homme aa ETRANGERE ELECTEUR milieu aaa aaa aa aa 
